@@ -1,99 +1,41 @@
-
 @font-face {
-        font-family:raleway_thin;
-        src: url(font/Raleway-Thin.ttf);
+        font-family:roboto_bold;
+        src: url(font/Roboto-Bold.ttf);
 }
-.raleway_thin{
-    font-family:raleway_thin;
-}
-
-@font-face {
-        font-family:raleway_light;
-        src: url(font/Raleway-Light.ttf);
-}
-.raleway_light{
-    font-family:raleway_light;
-}
-@font-face {
-        font-family:raleway_extrabold;
-        src: url(font/Raleway-ExtraBold.ttf);
-}
-.raleway_extrabold{
-    font-family:raleway_extrabold
-;
+.roboto_bold{
+    font-family:roboto_bold;
 }
 
 @font-face {
-        font-family:raleway_regular;
-        src: url(font/Raleway-Regular.ttf);
+        font-family:roboto_reg;
+        src: url(font/Roboto-Regular.ttf);
 }
-.raleway_regular{
-    font-family:raleway_regular;
-}
-
-@font-face {
-        font-family:raleway_bold;
-        src: url(font/Raleway-Bold.ttf);
-}
-.raleway_bold{
-    font-family:raleway_bold;
+.roboto_reg{
+    font-family:roboto_reg;
 }
 
 @font-face {
-        font-family:raleway_semibold;
-        src: url(font/Raleway-SemiBold.ttf);
+        font-family:roboto_lit;
+        src: url(font/Roboto-Light.ttf);
 }
-.raleway_semibold{
-    font-family:raleway_semibold;
-}
-
-@font-face {
-        font-family:raleway_medium;
-        src: url(font/Raleway-Medium.ttf);
-}
-.raleway_medium{
-    font-family:raleway_medium;
-}
-
-@font-face {
-        font-family:raleway_italic;
-        src: url(font/Raleway-Italic.ttf);
-}
-.raleway_italic{
-    font-family:raleway_italic;
-}
-
-@font-face {
-        font-family:raleway_black;
-        src: url(font/Raleway-Black.ttf);
-}
-.raleway_black{
-    font-family:raleway_black;
+.roboto_lit{
+    font-family:roboto_lit;
 }
 
 
 @font-face {
-        font-family:raleway_extra_lit;
-        src: url(font/Raleway-ExtraLight.ttf);
+        font-family:mon_bold;
+        src: url(font/Montserrat-Bold.otf);
 }
-.raleway_extra_lit{
-    font-family:raleway_extra_lit;
+.mon_bold{
+    font-family:mon_bold;
 }
 
 
 @font-face {
-        font-family:opensans_reg;
-        src: url(font/OpenSans-Regular.ttf);
+        font-family:mon_reg;
+        src: url(font/Montserrat-Regular.otf);
 }
-.opensans_reg{
-    font-family:opensans_reg;
+.mon_reg{
+    font-family:mon_reg;
 }
-@font-face {
-        font-family:opensans_light;
-        src: url(font/OpenSans-Light.ttf);
-}
-.opensans_light{
-    font-family:opensans_light;
-}
-
-
